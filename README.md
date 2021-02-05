@@ -7,4 +7,6 @@ Design based on [@GeorgiaTechFB](https://twitter.com/GeorgiaTechFB)'s header pho
 
 Based on code provided by @TheCoachEdwards: https://github.com/TheCoachEdwards/Custom-Football-Field
 
+You'll need to install the attached font to your system fontbook to get the yardlines working. 
+
 License/terms: None, use it for whatever/wherever.
